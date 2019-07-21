@@ -1,2 +1,1 @@
-# MyGitProjects
-Sample Projects for learning GIT
+commit from Intellij IDE
